@@ -77,7 +77,7 @@ Blender / Substance 3D Painter
 
 ![Character A — Detail](media/models/a-02.png)
 
-<video src="media/models/a.mov" controls preload="metadata" width="100%"></video>
+<video src="media/models/a.mp4" controls preload="metadata" width="100%"></video>
 
 ※ 顔と髪は既成のもので、素体も使ってます。いずれもsonoさんのQuQuモデルです。
 
@@ -87,7 +87,7 @@ Blender / Substance 3D Painter
 
 ![Character B — Detail](media/models/b-02.png)
 
-<video src="media/models/b.mov" controls preload="metadata" width="100%"></video>
+<video src="media/models/b.mp4" controls preload="metadata" width="100%"></video>
 
 ※ 顔と髪は既成のもので、素体も使ってます。いずれもsonoさんのQuQuモデルです。
 

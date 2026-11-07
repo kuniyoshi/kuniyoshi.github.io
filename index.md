@@ -12,6 +12,8 @@ title: Portfolio
 
 Unity / C#
 
+[GitHub — Pg](https://github.com/kuniyoshi/Pg)
+
 盤面にある六角形の宝石を入れ替えて移動させ、同じ種類の宝石を4つ以上揃えて消すターン制パズルゲームです。
 
 形にすることと、設計を確認することを目標に作ったものです。2021年のものですが2026年に環境を更新してあります。
@@ -25,11 +27,11 @@ Unity / C#
 
 <video src="https://raw.githubusercontent.com/kuniyoshi/Pg/main/Documents/play.mov" controls preload="metadata" width="100%"></video>
 
-[GitHub — Pg](https://github.com/kuniyoshi/Pg)
-
 ### Gw — 3Dアクションゲーム（開発中）
 
 Unity / C# / Blender
+
+[GitHub — Gw](https://github.com/kuniyoshi/Gw)
 
 滑空、急降下、一撃離脱をテーマにした3Dアクションゲームです。
 
@@ -42,8 +44,6 @@ Unity / C# / Blender
 - 飛行角度に応じた挙動の変化
 
 <video src="media/gw/gameplay.mp4" controls preload="metadata" width="100%"></video>
-
-[GitHub — Gw](https://github.com/kuniyoshi/Gw)
 
 ※ 3D モデルはリポジトリに含めていないのでプレイはできないと思います。
 
@@ -62,8 +62,8 @@ macOS / Swift
 - キーボード中心の操作
 - データのインポート・エクスポート
 
-[測定画面](https://github.com/kuniyoshi/Tima/images/measurement.png)
-[タイムボックス画面](https://github.com/kuniyoshi/Tima/images/timebox.png)
+![測定画面](https://raw.githubusercontent.com/kuniyoshi/Tima/main/images/measurement.png)
+![タイムボックス画面](https://raw.githubusercontent.com/kuniyoshi/Tima/main/images/timebox.png)
 
 [GitHub — Tima](https://github.com/kuniyoshi/Tima)
 

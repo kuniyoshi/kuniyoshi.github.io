@@ -31,11 +31,9 @@ Unity / C#
 
 Unity / C# / Blender
 
-[GitHub — Gw](https://github.com/kuniyoshi/Gw)
-
 滑空、急降下、一撃離脱をテーマにした3Dアクションゲームです。
 
-高度と速度の変化を活かし、飛行そのものが気持ちよくなる操作感を目指しています。自分が楽しむために作成中です。
+高度と速度の変化を活かし、飛行そのものが気持ちよくなる操作感を目指しています。自分が楽しむために非公開で作成中です。
 
 **実装・検証中の要素**
 
@@ -44,8 +42,6 @@ Unity / C# / Blender
 - 飛行角度に応じた挙動の変化
 
 <video src="media/gw/gameplay.mp4" controls preload="metadata" width="100%"></video>
-
-※ 3D モデルはリポジトリに含めていないのでプレイはできないと思います。
 
 ## Applications
 
